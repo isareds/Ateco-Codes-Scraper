@@ -1,4 +1,0 @@
-nose
-sphinx
-beautifulsoup4
-bs4
